@@ -2,7 +2,7 @@ const express = require('express');
 const path = require('path');
 const app = express();
 
-process.env.PORT = 8080 || config.server.port;
+process.env.PORT = process.env.PORT || 8080;
 
 app.use(express.static(path.join(__dirname, 'client/build')));
 
