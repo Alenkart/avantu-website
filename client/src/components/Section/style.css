@@ -1,0 +1,8 @@
+.Section {
+    position: relative;
+    overflow: hidden;
+}
+
+.Section-content {
+    position: relative;
+}

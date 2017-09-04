@@ -1,0 +1,14 @@
+.Fooder {
+   padding: 20px;
+   text-align: left;
+   background: rgba(0, 0, 0, 0.6);
+}
+
+.Fooder span {
+    display: block;
+    width: 100%;
+    color: #fff;
+    font-size: 1.5em;
+    text-align: center;
+}
+

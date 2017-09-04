@@ -1,0 +1,14 @@
+.Feature {
+    overflow: hidden;
+    text-align: center;
+}
+
+.Feature h2 {
+    color: #868e96;
+}
+
+.Feature p {
+    text-align: center;
+    color: #868e96;
+    font-size: 1.3em;
+}
